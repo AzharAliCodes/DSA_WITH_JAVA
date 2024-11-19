@@ -9,3 +9,4 @@ class Q1_PrintHelloWorldMethod {
         printhello(); 
     }
 }
+//And this prgram is called function with no argument and bno return type

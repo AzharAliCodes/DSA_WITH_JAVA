@@ -17,3 +17,4 @@ public class Q2_AddTwoNumbersUsingMethod {
     }
     
 }
+//And this prgram is called function with argument and with return type

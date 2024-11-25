@@ -1,4 +1,4 @@
-//And this prgram is called function with argument and with return type
+//And this prgram is called function with argument and not return type
 public class Q3_ButterflyPattern_Function {
     public static void butter_fly(int n) {
         // Upper part of the butterfly

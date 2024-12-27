@@ -1,6 +1,6 @@
 //This prgram show you about linear/sequntaional search 
 import java.util.*;
-public class Q9_LinearSearch_Array {
+public class Q09_LinearSearch_Array {
     public static void main(String[] args){
         int arr[],i,n,num,f=0;
         boolean first=false;

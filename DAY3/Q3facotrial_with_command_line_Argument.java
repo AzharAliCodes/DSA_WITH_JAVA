@@ -1,5 +1,5 @@
 package dsa_with_java.DAY3;
-class Q3facotrial_with_command_line_Argument { 
+class Q03facotrial_with_command_line_Argument { 
     public static void main(String args[]) {
         long res = 1; // To store factorial results
         int i, n = args.length; // `n` is the count of command-line arguments

@@ -16,3 +16,6 @@ For my environment setup, I used a virtual workspace to ensure a clean and isola
  On Day 4, we focused on developing sorting algorithms and related concepts to strengthen our understanding of data manipulation and algorithm efficiency. The session started with the implementation of the bubble sort algorithm, followed by selection sort and insertion sort, which provided insight into different sorting techniques.
 
 We then explored the use of in-built functions to sort arrays, emphasizing Java's utility libraries. The session concluded with the implementation of the counting sort algorithm, which introduced a non-comparative sorting approach.
+
+ # DAY 5 Summary:
+Today, I worked on 2D arrays in Java. I implemented basic input/output operations, searched for elements in unsorted and sorted matrices, found the largest and smallest elements, calculated diagonal sums, and traversed a spiral matrix. I also optimized search in a sorted matrix using a top-right corner approach. These programs improved my understanding of 2D array operations and algorithms.

@@ -19,3 +19,8 @@ We then explored the use of in-built functions to sort arrays, emphasizing Java'
 
  # DAY 5 Summary:
 Today, I worked on 2D arrays in Java. I implemented basic input/output operations, searched for elements in unsorted and sorted matrices, found the largest and smallest elements, calculated diagonal sums, and traversed a spiral matrix. I also optimized search in a sorted matrix using a top-right corner approach. These programs improved my understanding of 2D array operations and algorithms.
+
+ # DAY 6 Summary:
+On Day 6, we focused on solving various string-related problems using Java, enhancing our understanding of string manipulation and logic-building. We began with a program demonstrating essential string operations such as finding length, comparing strings (both case-sensitive and case-insensitive), extracting substrings, replacing characters, and concatenating strings. Next, we checked whether a given string is a palindrome using a two-pointer approach. Moving forward, we tackled a problem to compute the shortest path to a destination based on directional instructions. Additionally, we found the largest string lexicographically from a given set of strings using the compareTo() method. We also implemented a program to capitalize the first letter of each word in a string while preserving the remaining text. Lastly, we created a string compression program that replaces consecutive occurrences of characters with their counts, providing a more compact representation. These exercises improved our problem-solving skills and deepened our understanding of Java's string handling capabilities.
+
+# DAY 7

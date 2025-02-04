@@ -1,6 +1,6 @@
 package dsa_with_java.DAY7;
 
-public class Q09CheckPowerOf2OrNot {
+public class Q09_CheckPowerOf2OrNot {
     public static void main(String[] args) {
         System.out.println(isPowerOfTwo(15)); // Checking if 15 is a power of 2
     }
